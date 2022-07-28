@@ -6,7 +6,7 @@ fonts:
   mono: Fira Code
   provider: Google
 highlighter: shiki
-title: Hack the newsroom: How data-driven journalism is changing the news
+title: Hack the newsroom - How data-driven journalism is changing the news
 download: 'https://antfu.me/talks/2021-04-29'
 info: |
   ## Hack the newsroom: How data-driven journalism is changing the news
