@@ -6,8 +6,7 @@ fonts:
   mono: Fira Code
   provider: Google
 highlighter: shiki
-title:💻 Hack the newsroom - Rui Barros
-download: 'https://www.dspt-ddj.vercel.app/'
+download: https://www.dspt-ddj.vercel.app/
 info: |
   ## Hack the newsroom: How data-driven journalism is changing the news
   Author: Rui Barros
@@ -16,7 +15,7 @@ drawings:
   persist: false
 ---
 
-<h1>💻 Hack the newsroom</h1>
+# 💻 Hack the newsroom
 <h2>How data-driven journalism is changing the news</h2>
 
 <div class="uppercase text-sm tracking-widest mt-8">
